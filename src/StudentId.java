@@ -8,4 +8,5 @@ public class StudentId {
     }
 
     StudentId studentId = new StudentId(143,8790018627);
+    System.out.println(studentId);
 }

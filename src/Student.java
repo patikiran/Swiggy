@@ -8,5 +8,5 @@ public class Student{
         this.fatherName = fatherName;
     }
     Student student = new Student("kirankumar","prabhakarrao");
-    System.out.println(student)
+    System.out.println(student);
 }
